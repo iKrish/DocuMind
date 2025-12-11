@@ -3,8 +3,11 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-docmin.streamlit.app-success?style=for-the-badge)](https://docmin.streamlit.app/)
 
 A powerful document analysis tool built with Streamlit and Google Gemini AI that transforms how you interact with PDF documents. Get instant summaries, ask intelligent questions, and visualize document concepts through interactive mind maps.
+
+🌐 **[Try it live: docmin.streamlit.app](https://docmin.streamlit.app/)**
 
 ## ✨ Features
 
@@ -113,17 +116,9 @@ Visual concept mapping that:
 - Use environment variables for all secrets
 - For deployment, use Streamlit Cloud's secrets management
 
-## 🌐 Deployment
+## 🌐 Local Setup
 
-### Deploy to Streamlit Cloud (Free)
-
-1. Push your code to GitHub (excluding `.env`)
-2. Visit [share.streamlit.io](https://share.streamlit.io/)
-3. Connect your GitHub repository
-4. Add your `GEMINI_API_KEY` in the Secrets section
-5. Deploy!
-
-See [QUICKSTART.md](QUICKSTART.md) for detailed deployment instructions.
+See [QUICKSTART.md](QUICKSTART.md) for detailed  instructions.
 
 ## 📊 Performance
 

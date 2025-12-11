@@ -566,7 +566,7 @@ else:
             <span class="hero-logo-img">🧠</span> DocuMind
         </div>
         <div class="hero-description">
-            Upload your lectures to create summaries, mind maps, and quizzes instantly.
+            Upload your documents to create summaries, get answers, and visualize concepts instantly.
         </div>
     </div>
     """, unsafe_allow_html=True)
