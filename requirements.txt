@@ -1,0 +1,5 @@
+# Install these packages first
+streamlit
+google-generativeai
+PyPDF2
+python-dotenv
